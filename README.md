@@ -41,7 +41,7 @@ A modern, responsive personal portfolio website built using **React**, **Tailwin
 ## 📄 How to Use
 
 1. Clone the repository:
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/160904160805/my-personal-portfolio/tree/main.git
 cd your-repo-name
 
 2. Install dependencies:
