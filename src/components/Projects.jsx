@@ -13,7 +13,7 @@ const projects = [
     title: "Portfolio Website",
     description: "My personal portfolio website built with React and Tailwind CSS.",
     tech: ["React", "Tailwind"],
-    link: "https://yourportfolio.vercel.app/"
+    link: "https://my-personal-portfolio-chi-five.vercel.app/"
   },
   {
     title: "Food Delivery Time Prediction",
