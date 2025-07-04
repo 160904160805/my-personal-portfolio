@@ -21,7 +21,7 @@ const categories = [
   {
     title: 'Languages',
     icon: <FaCode className="text-indigo-500 dark:text-indigo-400" />,
-    skills: ['C', 'Python++', 'Java', 'JavaScript']
+    skills: ['C', 'Python', 'Java', 'JavaScript']
   },
   {
     title: 'Networking',
