@@ -8,7 +8,7 @@ const Hero = () => {
       id="hero"
       className="relative w-full min-h-screen bg-cover bg-center flex items-center justify-center"
       style={{
-        backgroundImage: `url('boy.jpg')`,
+        backgroundImage: `url('public\assets\boy.jpg')`,
       }}
     >
       <motion.div

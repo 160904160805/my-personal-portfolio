@@ -6,17 +6,17 @@ const certificates = [
   {
     title: "Cisco - Network Addressing and Basic Troubleshooting",
     url: "https://drive.google.com/file/d/18_k-Gt3ygkjvGDTm0vdxiOuhlWEvSf_f/view?usp=drive_link",
-    image: "NABT.jpg"
+    image: "src\assets\NABT.jpg"
   },
   {
     title: "CCNA [SRWE] - Switching , Routing , Wireless Essntials",
     url: "https://drive.google.com/file/d/18BmFrdSr6SnxrJnNCjhfd9pGRrUkZH9w/view?usp=drive_link",
-    image: "SRWE.jpg"
+    image: "src\assets\SRWE.jpg"
   },
   {
     title: "CCNA - Introduction To Networks",
     url: "https://drive.google.com/file/d/198kiNDsmkVwCiVfSiWzOsliFU69gGROF/view?usp=drive_link",
-    image: "CCNA.jpg"
+    image: "public\assets\CCNA.jpg"
   }
 ];
 
