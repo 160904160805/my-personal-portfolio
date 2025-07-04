@@ -16,7 +16,7 @@ const certificates = [
   {
     title: "CCNA - Introduction To Networks",
     url: "https://drive.google.com/file/d/198kiNDsmkVwCiVfSiWzOsliFU69gGROF/view?usp=drive_link",
-    image: "public/assets/CCNA.jpg"
+    image: "assets/CCNA.jpg"
   }
 ];
 
