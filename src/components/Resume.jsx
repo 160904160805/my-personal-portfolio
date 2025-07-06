@@ -35,7 +35,7 @@ const Resume = () => {
 
       <div className="flex flex-wrap gap-6">
         <motion.a
-          href="/resume.pdf"
+          href="https://drive.google.com/file/d/1GNqFPgCBssxwYuEsOW8T6-hKQWLRM7y-/view?usp=drive_link"
           download
           className="inline-flex items-center gap-2 px-6 py-3 border border-indigo-600 text-indigo-600 rounded-xl hover:bg-indigo-600 hover:text-white transition dark:border-indigo-400 dark:text-indigo-400 dark:hover:bg-indigo-400 dark:hover:text-black"
           whileHover={{ scale: 1.05 }}
@@ -45,7 +45,7 @@ const Resume = () => {
         </motion.a>
 
         <motion.a
-          href="/resume.pdf"
+          href="https://drive.google.com/file/d/1GNqFPgCBssxwYuEsOW8T6-hKQWLRM7y-/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-6 py-3 border border-indigo-600 text-indigo-600 rounded-xl hover:bg-indigo-600 hover:text-white transition dark:border-indigo-400 dark:text-indigo-400 dark:hover:bg-indigo-400 dark:hover:text-black"
