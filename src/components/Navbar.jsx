@@ -65,7 +65,7 @@ const Navbar = () => {
           whileHover={{ scale: 1.15 }}
         >
           <Typewriter
-            words={['R G V']}
+            words={['R G Vinay']}
             loop={false}
             cursor
             cursorStyle="|"
