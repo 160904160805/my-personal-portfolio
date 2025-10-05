@@ -26,7 +26,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.3 }}
         >
-          Hey, I'm <span className="text-cyan-400">Gowri Vinay Rongala</span>
+          Hey, I'm <span className="text-indigo-400">Gowri Vinay Rongala</span>
         </motion.h1>
 
         <div className="w-28 h-1.5 bg-cyan-400 mx-auto mb-6 rounded-full shadow-[0_0_20px_rgba(0,255,255,0.5)]" />
@@ -37,7 +37,7 @@ const Hero = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.6 }}
         >
-          💻 Aspiring <span className="text-cyan-300 font-semibold">Software Developer</span> &{' '}
+          💻 Aspiring <span className="text-indigo-400 font-semibold">Software Developer</span> &{' '}
           <span className="text-indigo-400 font-semibold">Tech Enthusiast</span>
         </motion.p>
 
