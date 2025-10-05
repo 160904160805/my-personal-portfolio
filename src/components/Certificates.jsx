@@ -9,14 +9,19 @@ const certificates = [
     image: "assets/NABT.jpg"
   },
   {
-    title: "CCNA [SRWE] - Switching , Routing , Wireless Essntials",
-    url: "https://drive.google.com/file/d/18BmFrdSr6SnxrJnNCjhfd9pGRrUkZH9w/view?usp=drive_link",
+    title: "Python Essentials - Cisco",
+    url: "https://drive.google.com/file/d/1NFGfIJPGZ9vTryEN2zWcsekDw4vxrvoL/view?usp=drive_link",
     image: "assets/SRWE.jpg"
   },
   {
     title: "CCNA - Introduction To Networks",
     url: "https://drive.google.com/file/d/198kiNDsmkVwCiVfSiWzOsliFU69gGROF/view?usp=drive_link",
     image: "assets/CCNA.jpg"
+  },
+  {
+    title: "JavaScript For Beginers - Simplilearn",
+    url: "https://drive.google.com/file/d/1TixVg-fCK6pBmvXKhk4QqgM0ObQ2wn3I/view?usp=drive_link",
+    image: "assets/SRWE.jpg"
   }
 ];
 
