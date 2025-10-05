@@ -34,12 +34,15 @@ const About = () => {
         viewport={{ once: true }}
       >
         <p className="text-lg text-gray-700 dark:text-gray-300 mb-6 leading-relaxed text-center">
-          I'm an enthusiastic networking engineer and cybersecurity learner, passionate about building secure, reliable systems. I enjoy working with routers, switches, and diving deep into how networks operate behind the scenes.
-        </p>
+  I'm an enthusiastic <span className="font-semibold text-blue-500">Full-Stack Software Developer</span> passionate about building scalable, high-performance applications. 
+  I love turning ideas into sleek, interactive digital experiences that blend functionality with creativity.
+</p>
 
-        <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 leading-relaxed text-center">
-          I’m always eager to learn new technologies, improve my skills, and stay updated on the latest in networking and security.
-        </p>
+<p className="text-lg text-gray-700 dark:text-gray-300 mb-8 leading-relaxed text-center">
+  I’m constantly exploring new technologies, improving my skills, and staying current with modern stacks like 
+  <span className="font-semibold text-blue-400"> React, Node.js, MongoDB, and Express</span> — always aiming to craft reliable, efficient, and secure web solutions.
+</p>
+
 
         {/* Email */}
         <div className="text-center mb-8">
