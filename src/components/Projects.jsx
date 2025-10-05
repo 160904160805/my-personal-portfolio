@@ -10,16 +10,22 @@ const projects = [
     link: "https://github.com/160904160805/ML_Lasso_Project_Car_Price_Prediction"
   },
   {
-    title: "Portfolio Website",
-    description: "My personal portfolio website built with React and Tailwind CSS.",
-    tech: ["React", "Tailwind"],
-    link: "https://my-personal-portfolio-chi-five.vercel.app/"
+    title: "File Data Analyzer",
+    description: "File Data Analyzer — A Flask web app that analyzes Excel, PDF, and text files — generating instant summaries, heatmaps, and PDF reports in a sleek navy-blue dashboard.",
+    tech: ["Python", "Flask","HTML","CSS","Jinja2","Pandas","Numpy","Matplotlib","Seaborn","PyPdf2","OpenPyXL"],
+    link: "https://github.com/160904160805/File-Analyzer"
   },
   {
     title: "Food Delivery Time Prediction",
     description: "Food Delivery Time Prediction — A deep learning model using LSTM and the Haversine formula to predict delivery time based on customer age, delivery distance, and delivery person-ratings.",
     tech: ["Haversine Formula", "TensorFlow/Keras", "Python","LSTM"],
     link: "https://github.com/160904160805/Food-Delivery-Time-Prediction/tree/main"
+  },
+  {
+    title: "Advance Encryption Tool",
+    description: "Advance Encryption Tool — Built a Flask-based AES-256 encryption tool in Python to securely encrypt and decrypt files and text via a responsive web interface.",
+    tech: ["Python", "Javascript", "Flask","PyCryptodome"],
+    link: "https://github.com/160904160805/ADVANCE-ENCRYPTION-TOOL"
   }
 ];
 
