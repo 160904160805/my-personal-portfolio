@@ -6,12 +6,12 @@ const categories = [
   {
     title: 'Frontend',
     icon: <FaPaintBrush className="text-indigo-500 dark:text-indigo-400" />,
-    skills: ['HTML', 'CSS', 'JavaScript', 'React', 'Tailwind CSS']
+    skills: ['HTML', 'CSS', 'JavaScript', 'React(basic)', 'Tailwind CSS']
   },
   {
     title: 'Backend',
     icon: <FaDatabase className="text-indigo-500 dark:text-indigo-400" />,
-    skills: ['Node.js', 'MongoDB', 'MySQL']
+    skills: [ 'MongoDB', 'MySQL']
   },
   {
     title: 'Dev Tools',
@@ -21,7 +21,7 @@ const categories = [
   {
     title: 'Languages',
     icon: <FaCode className="text-indigo-500 dark:text-indigo-400" />,
-    skills: ['C', 'Python', 'Java', 'JavaScript']
+    skills: ['Python', 'Java', 'JavaScript']
   },
   {
     title: 'Networking',
@@ -36,7 +36,7 @@ const categories = [
   {
     title: 'Frameworks',
     icon: <FaCubes className="text-indigo-500 dark:text-indigo-400" />,
-    skills: ['Django']
+    skills: ['Bootstrap','Numpy','Pandas']
   }
 ];
 
