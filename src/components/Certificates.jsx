@@ -11,7 +11,7 @@ const certificates = [
   {
     title: "Python Essentials - Cisco",
     url: "https://drive.google.com/file/d/1NFGfIJPGZ9vTryEN2zWcsekDw4vxrvoL/view?usp=drive_link",
-    image: "assets/SRWE.jpg"
+    image: "assets/PythonEssentials.jpg"
   },
   {
     title: "CCNA - Introduction To Networks",
@@ -21,7 +21,7 @@ const certificates = [
   {
     title: "JavaScript For Beginers - Simplilearn",
     url: "https://drive.google.com/file/d/1TixVg-fCK6pBmvXKhk4QqgM0ObQ2wn3I/view?usp=drive_link",
-    image: "assets/SRWE.jpg"
+    image: "assets/vinay's javascript certificate.jpg"
   }
 ];
 
