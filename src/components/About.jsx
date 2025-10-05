@@ -34,15 +34,15 @@ const About = () => {
         viewport={{ once: true }}
       >
         <p className="text-lg text-gray-700 dark:text-gray-300 mb-6 leading-relaxed text-center">
-  I'm an enthusiastic <span className="font-semibold text-blue-500">Full-Stack Software Developer</span> passionate about building scalable, high-performance applications. 
-  I love turning ideas into sleek, interactive digital experiences that blend functionality with creativity.
+  I'm an enthusiastic <span className="font-semibold text-blue-500">Full-Stack Software Developer</span> 
+  with a passion for designing and developing efficient, reliable, and user-friendly applications. 
+  I enjoy solving complex problems and bringing ideas to life through clean and thoughtful code.
 </p>
 
 <p className="text-lg text-gray-700 dark:text-gray-300 mb-8 leading-relaxed text-center">
-  I’m constantly exploring new technologies, improving my skills, and staying current with modern stacks like 
-  <span className="font-semibold text-blue-400"> React, Node.js, MongoDB, and Express</span> — always aiming to craft reliable, efficient, and secure web solutions.
+  I’m always eager to learn, adapt to new challenges, and continuously grow as a developer while striving 
+  to create impactful digital experiences.
 </p>
-
 
         {/* Email */}
         <div className="text-center mb-8">
