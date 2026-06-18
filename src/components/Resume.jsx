@@ -35,7 +35,7 @@ const Resume = () => {
 
       <div className="flex flex-wrap gap-6">
         <motion.a
-          href="assets/vinay_resume.pdf"
+          href="assets/vinay's_resume.pdf"
           download
           className="inline-flex items-center gap-2 px-6 py-3 border border-indigo-600 text-indigo-600 rounded-xl hover:bg-indigo-600 hover:text-white transition dark:border-indigo-400 dark:text-indigo-400 dark:hover:bg-indigo-400 dark:hover:text-black"
           whileHover={{ scale: 1.05 }}
