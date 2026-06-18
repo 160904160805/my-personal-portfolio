@@ -45,7 +45,7 @@ const Resume = () => {
         </motion.a>
 
         <motion.a
-          href="https://drive.google.com/file/d/1B9DteMJfzCCiwMSMjLrHQ8l71zbRc08Q/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1Bd4t1a7_LU8JHN_oL64RQ-DxvnRttknb/view?usp=drive_link"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-6 py-3 border border-indigo-600 text-indigo-600 rounded-xl hover:bg-indigo-600 hover:text-white transition dark:border-indigo-400 dark:text-indigo-400 dark:hover:bg-indigo-400 dark:hover:text-black"
